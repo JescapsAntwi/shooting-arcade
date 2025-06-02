@@ -51,7 +51,7 @@ A modern, browser-based space shooter game built with Next.js and TypeScript. De
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/space-defender.git
+   git clone https://github.com/yourusername/shooting-arcade.git
    cd space-defender
    ```
 
